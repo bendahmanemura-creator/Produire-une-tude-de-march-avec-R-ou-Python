@@ -1,0 +1,10 @@
+# Objectif
+Ce projet a pour but d’étudier le marché de la volaille pour une entreprise d’élevage et de vente de poulet en France, en vue d’une éventuelle expansion à l’international.
+L’objectif est de proposer des groupes de pays cibles adaptés à cette expansion. Pour cela, l’analyse est organisée en deux grandes parties :
+- la préparation et le nettoyage des données utilisées pour l’étude ;
+- le regroupement des pays et l’analyse des résultats.
+L’ensemble du travail est réalisé en utilisant le langage Python, conformément aux consignes qui prévoient l’usage exclusif de Python ou de R pour cette étude.
+## Contexte et description des données
+La Poule qui chante est une entreprise française de l’agroalimentaire dont l’activité principale est l’élevage et la vente de poulets sous le label « Poulet Agriculture Biologique ». L’entreprise, aujourd’hui centrée sur le marché national, souhaite se développer à l’international, sans a priori sur une zone géographique particulière (pays ou continent).
+Dans ce cadre, il est demandé de réaliser une étude de marché visant à proposer une analyse de groupements de pays cibles pour l’exportation de poulet, comme précisé dans la section Objectif. Les données mobilisées proviennent d’organismes internationaux tels que la FAO (Food and Agriculture Organization), la Banque mondiale et le site Données mondiales, à partir desquels ont été extraits des indicateurs démographiques, économiques et agroalimentaires utiles à l’étude.
+Pour faciliter le démarrage du projet, l’entreprise a pré agrégé une première sélection d’indicateurs dans deux fichiers CSV fournis au départ de l’analyse. Ces fichiers ont servi de base, mais ne suffisaient pas à couvrir l’ensemble des besoins de l’étude. Conformément au cahier des charges, des données complémentaires ont donc été récupérées directement auprès de la FAO et de la Banque mondiale, afin d’obtenir plus de huit variables pertinentes au sens de l’approche PESTEL (démographie, économie, production et échanges de volaille, emploi agroalimentaire, etc.) et de constituer un échantillon final de plus de 100 pays à analyser.
