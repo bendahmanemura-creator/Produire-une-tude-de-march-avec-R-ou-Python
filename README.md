@@ -142,7 +142,6 @@ Pour transformer ces données statiques en stratégie, nous proposons d'analyser
 3.	Long Terme (Évolution de l'Offre) :
 •	Cibles : Cluster 5 (Australie, Chili, etc.).
 •	Méthode : Surveiller la variable Tendance_elevage. Si la production locale dépasse la croissance de la population, ces pays passeront de "clients" à "concurrents".
-________________________________________
 5.	Recommandations stratégiques finales
 Stratégie	Horizon	Clusters Prioritaires	Risque principal
 Flux Massifs	2024-2025	Cluster 3 (Allemagne, Belgique)	Concurrence de la Pologne/Ukraine
